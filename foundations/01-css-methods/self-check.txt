@@ -1,0 +1,6 @@
+01. Yes, all three methods were used in this exercise.
+02. Yes, i did with the <link rel="stylesheet" href="styles.css"> tag.
+03. Yes, after creating styles.css and properly linking it in <head>, div {} type selector was used.
+04. Yes, after creating a style<> in <head>, p {} was used.
+05. Yes, in its own tag, we can create a style="property: value;"
+
